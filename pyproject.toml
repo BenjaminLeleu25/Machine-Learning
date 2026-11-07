@@ -14,7 +14,10 @@ dependencies = [
     "pandas (>=2.3.3,<3.0.0)",
     "statsmodels (>=0.14.5,<0.15.0)",
     "numpy (>=1.22.0,<3.0.0)",
-    "scipy (>=1.8.0)"
+    "scipy (>=1.8.0)",
+    "xgboost",
+    "pyarrow",
+    "jinja2",
 ]
 
 
